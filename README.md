@@ -105,9 +105,21 @@ The website is designed to be **user-friendly, responsive, and visually engaging
 
 ---
 
+
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/kush1310/EcoGuardians-Official_NGO-WEBSITE.git
+```
+
+---
+
+### Author  
+--- Kush Amit Shah  
+--- Diploma in Computer Engineering  
+--- B.Tech (Pursuing)
+--- Gujarat, India  
+--- Mail: kushshah900@gmail.com  
+--- Interests: Cybersecurity | Web Development | Logical Programming  
